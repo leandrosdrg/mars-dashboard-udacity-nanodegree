@@ -1,0 +1,17 @@
+/* -------------------  MOBILE  --------------------- */
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial;
+    min-height: 100vh;
+}
+
+.nav-item {
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    color: #fff;
+    background-color: #007bff;
+}
